@@ -21,7 +21,7 @@ export default function Hero() {
         <p className="font-utility text-xs uppercase tracking-[0.35em] text-gold-bright">
           Giza · Cairo · Alexandria · Fayoum
         </p>
-        <h1 className="mt-5 max-w-3xl font-display text-4xl leading-[1.08] text-papyrus sm:text-6xl">
+        <h1 className="mt-5 max-w-3xl font-display text-3xl leading-[1.08] text-papyrus sm:text-6xl">
           Four thousand years of Egypt, guided by people who actually live here.
         </h1>
         <p className="mt-6 max-w-xl text-base leading-relaxed text-papyrus/80 sm:text-lg">
