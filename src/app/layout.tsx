@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     description: siteConfig.description,
     images: [
       {
-        url: "https://images.unsplash.com/photo-1738580426685-f8f0d34291dc?auto=format&fit=crop&w=1200&q=75",
+        url: "/imgaes/sphinx-pyramid.webp",
         width: 1200,
         height: 630,
         alt: "The Great Sphinx and the Pyramids of Giza",
