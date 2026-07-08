@@ -9,7 +9,7 @@ export const siteConfig = {
   shortName: "Abado Tours",
   description:
     "Private day tours across Giza, Cairo, Alexandria and Fayoum with licensed Egyptologist guides. Book instantly on WhatsApp.",
-  url: "https://www.abadopyramidstours.com",
+  url: "https://abado-pyramids-tours.vercel.app",
   whatsappNumber: "201274574602",
   defaultWhatsappMessage:
     "Hello Abado Pyramids & Sphinx Tours! I'd like to know more about your tours.",
