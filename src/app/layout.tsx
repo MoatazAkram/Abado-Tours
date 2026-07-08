@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   description: siteConfig.description,
    verification: {
-    google: "",
+    google: "XAYNjSD-mah3AlbN3SEpA1DmdgYFJqoGuyyqfCuebzc",
   },
   keywords: [
     "Egypt tours",
