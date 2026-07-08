@@ -34,6 +34,9 @@ export const metadata: Metadata = {
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
+   verification: {
+    google: "XAYNjSD-mah3AlbN3SEpA1DmdgYFJqoGuyyqfCuebzc",
+  },
   keywords: [
     "Egypt tours",
     "Giza pyramids tour",
