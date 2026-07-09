@@ -37,6 +37,13 @@ export const metadata: Metadata = {
    verification: {
     google: "XAYNjSD-mah3AlbN3SEpA1DmdgYFJqoGuyyqfCuebzc",
   },
+  icons: {
+    icon: [
+      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/favicon.ico", sizes: "any" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
   keywords: [
     "Egypt tours",
     "Giza pyramids tour",
@@ -58,7 +65,7 @@ export const metadata: Metadata = {
     description: siteConfig.description,
     images: [
       {
-        url: "/imgaes/sphinx-pyramid.webp",
+        url: "/images/sphinx-pyramid.webp",
         width: 1200,
         height: 630,
         alt: "The Great Sphinx and the Pyramids of Giza",
